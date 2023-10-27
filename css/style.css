@@ -42,8 +42,40 @@ nav ul li a {
     cursor: pointer;
     text-decoration: none;
 }
-body {
+body  {
     width: 100%;
     height: 100%;
     background: url('https://i.postimg.cc/mrKVNK2M/kkjh.jpg');
+}
+/*
+main{
+    width: 100%;
+    height: 100%;
+    background: url('https://i.postimg.cc/XqNt26j2/m2.png');
+}*/
+/*.loading-page {
+
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: url(/_webmoduledata/videos/loaders/200w (3).gif) center no-repeat #141414;
+}*/
+
+h2 {
+    Text-Align: Center;
+    Color: rgba(237,27,36,1) !important;
+    Font-Size: 26px !important;
+    Font-Family: 'Arial Black', Arial, sans-serif !important;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }
